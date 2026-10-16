@@ -1,0 +1,4 @@
+6601,Somchai,Python,19
+6602,Somsri,English,18
+6603,Anan,Math,21
+6604,Boonmee,Science,17
