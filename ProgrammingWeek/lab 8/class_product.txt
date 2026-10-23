@@ -1,0 +1,3 @@
+Pen,15,100
+Notebook,50,30
+Pencil,10,200
