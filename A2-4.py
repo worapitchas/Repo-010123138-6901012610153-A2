@@ -17,7 +17,8 @@ class BorrowSystem:
         }
         self.users = {
             'U001': True,
-            'BAITONG1': True
+            'U002': True,
+            'U003': True
         }
         self.records = []   
 
